@@ -68,3 +68,8 @@ h2{
     padding: 80px
 }
 
+.project-card {
+    width:200px;
+    height:500px;
+    border: 1px solid black
+}
