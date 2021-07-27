@@ -1,0 +1,70 @@
+section {
+    height:auto;
+    background-color: white;
+    border: solid black 1px;
+
+}
+
+.hero {
+    background-color: black;
+    height:100vh;
+    color: white;
+    font-size: 20px;
+
+}
+
+footer {
+    height: 500px;
+    background-color: whitesmoke;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    color: white;  
+}
+
+ABOUT ME {
+    display: flex;
+    color: white;
+    
+}
+
+WORK {
+    display: flex;
+    color: white;
+    text-decoration: none;
+    justify-content: space-around;
+}    
+
+CONTACT ME {
+    display: flex;
+    color: white;
+    text-decoration: none;
+    justify-content: space-around;
+}
+
+h1{
+    font-size: 80px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+.hero-text {
+    margin-left:80px;
+}
+
+.logo {
+    height: 300px;
+    margin: 30px;
+    border-radius: 150px;
+}
+
+.sub-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 80px
+}
+
