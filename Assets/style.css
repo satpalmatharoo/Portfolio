@@ -15,7 +15,9 @@ section {
 
 footer {
     height: 500px;
-    background-color: whitesmoke;
+    background-color:black;
+    color: white;
+    padding: 80px;
 }
 
 nav {
@@ -69,15 +71,32 @@ h2{
 }
 
 .project-card {
-    width:400px;
+    width: 350px;
     height:500px;
     border: 1px solid black;
-    box-shadow: cadetblue;
+    box-shadow: 5px 5px 10px rgb(38, 77, 78);
 }
+
+@media all and (max-width:500px) { 
+    .container-project { 
+        display: flex; 
+        flex-wrap: wrap;
+     }
+} 
 
 .container-project {
     display:flex;
     justify-content: space-around;
     padding: 40px;
     
+}
+
+.project-image{
+    margin-top: 50px;
+    width: 350px;
+    
+}
+
+@media screen and (max-width: 400px) {
+
 }
