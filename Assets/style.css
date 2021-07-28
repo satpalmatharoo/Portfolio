@@ -54,6 +54,11 @@ h2{
     font-size: 50px;
 }
 
+h3 { 
+    font-size:20px;
+    justify-content: space-around; 
+}
+
 .hero-text {
     margin-left:80px;
 }
@@ -75,6 +80,7 @@ h2{
     height:500px;
     border: 1px solid black;
     box-shadow: 5px 5px 10px rgb(38, 77, 78);
+    
 }
 
 @media all and (max-width:500px) { 
@@ -94,6 +100,7 @@ h2{
 .project-image{
     margin-top: 50px;
     width: 350px;
+    justify-content: center;
     
 }
 
