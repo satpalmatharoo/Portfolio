@@ -26,9 +26,10 @@ nav {
     color: white;  
 }
 
-ABOUT ME {
+ABOUT {
     display: flex;
     color: white;
+    justify-content: center;
     
 }
 
@@ -56,11 +57,14 @@ h2{
 
 h3 { 
     font-size:20px;
-    justify-content: space-around; 
+    justify-content: space-around;
+    display: flex; 
 }
 
 .hero-text {
     margin-left:80px;
+    font-size: 30px;
+    line-height: 0;
 }
 
 .logo {
@@ -76,22 +80,15 @@ h3 {
 }
 
 .project-card {
-    width: 350px;
+    width: 250px;
     height:500px;
     border: 1px solid black;
     box-shadow: 5px 5px 10px rgb(38, 77, 78);
-    
+
 }
 
-@media all and (max-width:500px) { 
-    .container-project { 
-        display: flex; 
-        flex-wrap: wrap;
-     }
-} 
-
 .container-project {
-    display:flex;
+    display: flex;
     justify-content: space-around;
     padding: 40px;
     
@@ -99,11 +96,25 @@ h3 {
 
 .project-image{
     margin-top: 50px;
-    width: 350px;
-    justify-content: center;
-    
+    width: 250px;
+    justify-content: center;   
 }
+
+ .project-image:hover { 
+    transform: scale(1.5,1.5); 
+    z-index:1; 
+} 
 
 @media screen and (max-width: 400px) {
 
+.socials { 
+    color: white;
+    margin: 20px;
+  
+}
+
+.footer {
+text-align:center;
+
+}
 }
