@@ -1,3 +1,14 @@
+@media only sreen and (max-width: 1000px) {
+    .container-project
+    .project-image 
+    .projects 
+    .hero {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+
 section {
     height:auto;
     background-color: white;
