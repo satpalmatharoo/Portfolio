@@ -1,4 +1,4 @@
-@media only sreen and (max-width: 1000px) {
+/* @media only sreen and (max-width: 1000px) { */
     .container-project
     .project-image 
     .projects 
@@ -53,14 +53,11 @@ h1{
     font-size: 80px;
     font-weight: 400;
       
-    
 }
 
 h2{
     font-size: 50px;
-    text-align: center;
-    
-    
+    text-align: center;   
 }
 
 h3 { 
@@ -124,11 +121,11 @@ h3 {
     z-index:1; 
 } 
 
-@media screen and (max-width: 400px) {
+/* @media screen and (max-width: 400px) { */
 
 .socials { 
     color: white;
     margin: 20px;  
-}
+
 
 }
