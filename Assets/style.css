@@ -83,6 +83,8 @@ h3 {
     flex: auto;
     justify-content: center;
     padding-bottom: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 .logo {
     height: 400px;
@@ -98,7 +100,8 @@ h3 {
 }
 
 .subtext {
-    text-align: center
+    text-align: center;
+    
     
 }
 
@@ -123,6 +126,9 @@ h3 {
     }
 }
 
+.project-description{
+    color: blueviolet;
+}
 
 .project-image{
     width: 280px;
@@ -134,6 +140,11 @@ h3 {
     transform: scale(1.5,1.5); 
     z-index:1; 
 } 
+
+.project-link{
+    text-decoration:none;
+    color:blueviolet
+}
 
 hr {
     margin-left: 20px;
