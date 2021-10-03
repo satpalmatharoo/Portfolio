@@ -7,11 +7,17 @@ section {
 
 a:-webkit-any-link{
     text-decoration: none;
-    font-size: x-large;
-    color: white;
-    justify-content: space-between;
-    
+    font-size: medium;
+    color: gray;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
+
+.button{
+    transition-duration: 0.4s;
+    background-color: #4CAF50; 
+    color: white;
+      }
+       
 
 .hero {
     background-color: black;
@@ -55,11 +61,7 @@ h1{
 
 h2{
     font-size: 50px;
-    /* text-align: right; */
-    /* padding-right: 400px;  */
-    /* justify-content: space-between;  */
-    /* align-items: center; */
-    /* vertical-align: bottom; */
+    
 
     
 }
@@ -106,11 +108,13 @@ h3 {
 }
 
 .project-card {
-    width: 280px;
-    border: 1px solid black;
-    box-shadow: 10px 10px 20px rgb(38, 77, 78);
+    width: 265px;
+    border: 1.5px solid black;
+    box-shadow: 10px 15px 20px rgb(38, 77, 78);
 
 }
+
+
 
 .container-project {
     display: flex;
@@ -127,12 +131,17 @@ h3 {
 }
 
 .project-description{
-    color: blueviolet;
+    color: rgb(11, 12, 11);
+    text-align: center;
+    font-size: medium;
+
+    
+    
 }
 
 .project-image{
-    width: 280px;
-    height: 250px;
+    width: 260px;
+    height: 130px;
     justify-content: center;   
 }
 
