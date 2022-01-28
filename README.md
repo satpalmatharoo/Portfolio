@@ -1,8 +1,7 @@
 
-## Portfolio
+Portfolio
 
-
-Table of Contents
+## Table of Contents
 
 * Description
 * Installation
