@@ -7,7 +7,8 @@ Website displaying projects.
 
 ## Table of Contents
 
-## Website deployed at https://satpalmatharoo.github.io/Portfolio/
+## Website deployed at 
+https://satpalmatharoo.github.io/Portfolio/
 
 * Description
 * Installation
