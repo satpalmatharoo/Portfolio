@@ -1,18 +1,14 @@
 
 ## Portfolio
-<<<<<<< HEAD
+
 
 Website displaying projects.
-=======
->>>>>>> 3d9c8e57bf1609db9f5a4e6054c34e75c2dcf97d
+
 
 ## Table of Contents
 
-<<<<<<< HEAD
-## Screenshot of Portfolio
-
 ## Website deployed at https://satpalmatharoo.github.io/Portfolio/
-=======
+
 * Description
 * Installation
 * Usage
