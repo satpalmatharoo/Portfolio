@@ -1,21 +1,11 @@
 
 ## Portfolio
 
-
-Website displaying projects.
-
-
-## Table of Contents
-
-## Website deployed at 
-https://satpalmatharoo.github.io/Portfolio/
+Table of Contents
 
 * Description
 * Installation
 * Usage
-* License
-* Contact
-
 
 ## Description
 Aspiring Full Stacked Web Developer showcasing my current projects.  For ease of the user this is also mobile responsive.
