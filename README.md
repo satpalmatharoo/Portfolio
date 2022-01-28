@@ -1,5 +1,7 @@
 
 ## Portfolio
+A fully responsive Portfolio showcasing my projects and contributions.
+
 
 ## Table of Contents
 
@@ -8,7 +10,7 @@
 * Usage
 
 ## Description
-Aspiring Full Stacked Web Developer showcasing my current projects.  For ease of the user this is also mobile responsive.
+Aspiring Full Stacked Web Developer who loves to problem solve and code!
 
 ## Installation
 * None!
